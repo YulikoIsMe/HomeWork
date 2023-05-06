@@ -14,7 +14,8 @@ public class E1Printer {
         // in java all the classes can be treated as data types
         //new E1Methods() => creating the object of the E1Methods class
         E1Printer obj=new E1Printer();
-        // we are calling the printWord() method on obj object and passing "java" as
+        // we are calling the pri
+        // ntWord() method on obj object and passing "java" as
         // argument or input
         obj.printWord("Java");
     }
