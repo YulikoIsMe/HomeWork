@@ -1,9 +1,11 @@
 package class16;
 
-import java.util.Scanner;
-
 public class Person {
     private String password;
+
+    public Person() {
+    }
+
     private void printPassword(){
         System.out.println(password);
     }
